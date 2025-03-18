@@ -1,7 +1,15 @@
 package urlproject;
 
 import java.util.Scanner;
+/*
+ * 7. URL Shortener (Standalone)
+✅ Concepts Used: Data Structures, Hashing, Collections
+💡 Description:
 
+Develop a TinyURL-like application that generates short URLs for given long URLs.
+Implement custom hashing techniques for URL shortening.
+Store mappings using HashMap or file storage.
+ */
 public class URLShortenerApp {
 	
 

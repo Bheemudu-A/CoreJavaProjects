@@ -2,7 +2,15 @@ package src.expenseproject;
 
 import java.time.LocalDate;
 import java.util.Scanner;
+/*
+ * 5. Expense Tracker Application (Standalone)
+✅ Concepts Used: OOPS, Collections, File Handling, Java Streams
+💡 Description:
 
+Develop a personal finance tracker where users can add expenses, view spending trends, and categorize transactions.
+Store data using CSV files or a lightweight database like H2.
+Implement filtering and sorting using Java Streams.
+ */
 public class Main {
 	
 	public static void main(String[] args) {

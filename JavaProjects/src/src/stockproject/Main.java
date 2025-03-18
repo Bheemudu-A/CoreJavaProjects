@@ -1,5 +1,15 @@
 package src.stockproject;
 
+/*
+ * 2. Stock Market Price Simulator
+✅ Concepts Used: OOPS, Collections, Threads, Observer Pattern
+💡 Description:
+
+Create a system that simulates stock price fluctuations in real time.
+Use the Observer Pattern to notify users when stock prices change.
+Fetch stock prices from an API (or generate random values).
+Implement buy/sell transactions and maintain a user's portfolio.
+ */
 public class Main {
 	
 	public static void main(String[] args) {
